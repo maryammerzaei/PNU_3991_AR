@@ -5,7 +5,7 @@
 ---
 - [حساب گیت هاب](https://github.com/maryammerzaei
 - [آدرس رزومه].(https://github.com/maryammerzaei/Mary.github.io)
-- [SOP](https://github.com/maryammerzaei/sop/)
+- [SOP](https://github.com/maryammerzaei/sop/
 
 ------------------
 
