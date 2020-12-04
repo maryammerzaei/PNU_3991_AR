@@ -7,22 +7,7 @@
 - [آدرس رزومه].(https://github.com/maryammerzaei/Mary.github.io)
 - [SOP](https://github.com/maryammerzaei/sop/)
 
--------------------
-## گروه ها
-
-1. G-L01
-
-   6. [_LMT-28_مریم میرزایی ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/28_%D9%85%D8%AD%D8%AF%D8%AB%D9%87%20%D8%B1%D9%88%D8%AD%D8%A7%D9%86%D9%8A)
-
-
-2. G-R01
-   
-   1. [_RAPM-26_مریم میرزایی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/26_%D9%85%D8%AD%D8%AF%D8%AB%D9%87%20%D8%B1%D9%88%D8%AD%D8%A7%D9%86%D9%8A)
-
-   
------------------
-
-
+------------------
 
 ## Winter Semester Courses 1399/2020
 
